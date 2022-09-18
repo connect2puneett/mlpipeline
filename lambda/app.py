@@ -22,7 +22,8 @@ def index():
     if "ENDPOINT_NAME" not in os.environ:
         raise BadRequestError("Missing endpoint.")
 
-    endpoint = os.environ["ENDPOINT_NAME"]
+    #endpoint = os.environ["ENDPOINT_NAME"]
+    endpoint = 	"mlpipeline-3600a71"
 
     img_bytes = base64.b64decode(body["data"])
     img = Image.open(io.BytesIO(img_bytes))
