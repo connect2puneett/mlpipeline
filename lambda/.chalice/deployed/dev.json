@@ -3,7 +3,7 @@
     {
       "name": "managed-layer",
       "resource_type": "lambda_layer",
-      "layer_version_arn": "arn:aws:lambda:eu-west-1:488176068240:layer:predictor-dev-managed-layer:3"
+      "layer_version_arn": "arn:aws:lambda:eu-west-1:488176068240:layer:predictor-dev-managed-layer:8"
     },
     {
       "name": "api_handler_role",

@@ -4,7 +4,7 @@
   "autogen_policy": false,
   "automatic_layer": true,
   "environment_variables": {
-    "ENDPOINT_NAME": "mlpipeline-3600a71"
+    "ENDPOINT_NAME": "mlpipeline-9e80ccf"
   },
   "stages": {
     "dev": {
